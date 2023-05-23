@@ -1,0 +1,17 @@
+{
+    "name": "lhaizaDL/CCS06-Lab10",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lhaiza Claire G, De Leon",
+            "email": "deleon.lhiazaclaire@auf.edu.ph"
+        }
+    ]
+}
